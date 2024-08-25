@@ -11,11 +11,7 @@
 
 - 🌱 I’m currently learning **penetration testing**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
-
-- 🤝 I’m looking for help with **MALWARE CREATION**
-
-- 📫 How to reach me **nikhiljohnshaji@gmail.com**
+- 👯 I’m looking to collaborate on **Machine Learning*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
